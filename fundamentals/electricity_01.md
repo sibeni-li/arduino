@@ -1,4 +1,4 @@
-# Electricity Fundamentals - Lesson 01
+# Electricity Fundamentals - 01
 **Date:** 19/01/2026          **Subject:** What is Electricity? - Fundamentals
 
 **Objective:** Understand electric charge, current, voltage, resistance, and their relationship
