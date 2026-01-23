@@ -10,4 +10,7 @@ It's my first circuit with just a PIR (Passive Infrared) motion sensor and a LED
 
 ## Circuit
 
-![Circuit](/images/PIR_with_led.jpg)
+![demo](/images/PIR_with_led2.jpg)
+
+## Demo
+![demo](/images/PIR_with_led.jpg)
