@@ -1,6 +1,6 @@
 # Hello Blink
 
-It's my first program. Any circuit, just make blink the Builtin LED and print a message in the serial monitor.
+It's my first program. No circuit, I just made blink the Builtin LED and print a message in the serial monitor.
 
 **Components**:
 - Arduino Uno R3
