@@ -10,6 +10,10 @@ This is a simple weather station that displays temperature and humidity on an LC
 - 4 resistors 220Ohms
 - 10k potentiometer
 
+## Wokwi Design
+
+![circuit design](/images/weather_design.png)
+
 ## Circuit
 
 ![circuit](/images/meteo_circuit.jpg)
